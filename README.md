@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!DOCTYPE html>
 <html>
   <body>
-    <img width="100%" src="https://badge42.herokuapp.com/api/stats/jfremond">
+    <img width="100%" src="https://badge42.herokuapp.com/api/stats/jsauveur">
     <br>
   </body>
 </html>
