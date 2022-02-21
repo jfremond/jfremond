@@ -20,6 +20,5 @@ Here are some ideas to get you started:
 <html>
   <body>
     <img width="100%" src="https://badge42.herokuapp.com/api/stats/jfremond?privacyEmail=true">
-    <img width="100%" src="https://badge42.herokuapp.com/api/project/jfremond/ft_printf">
   </body>
 </html>
