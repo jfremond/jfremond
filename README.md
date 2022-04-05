@@ -9,11 +9,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
 <!DOCTYPE html>
 <html>
   <body>
     <img width="100%" src="https://badge42.herokuapp.com/api/stats/jfremond?privacyName=true">
   </body>
 </html>
--->
