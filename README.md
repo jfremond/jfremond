@@ -15,5 +15,17 @@
 </html>
 -->
 ## 🏆 Github stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jfremond&hide=issues,prs&show_icons=true&hide_rank=true&theme=prussian&hide_border=true)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jfremond&hide=issues,prs&show_icons=true&hide_rank=true&theme=prussian&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfremond&langs_count=6&layout=compact&hide=roff,php,perl,dockerfile&theme=prussian&hide_border=true)
+ -->
+<!DOCTYPE html>
+<html>
+  <body>
+    <a href="https://github.com/jfremond/jfremond">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=jfremond&hide=issues,prs&show_icons=true&hide_rank=true&theme=prussian&hide_border=true)" />
+</a>
+<a href="https://github.com/jfremond/jfremond">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=jfremond&langs_count=6&layout=compact&hide=roff,php,perl,dockerfile&theme=prussian&hide_border=true)" />
+</a>
+  </body>
+</html>
