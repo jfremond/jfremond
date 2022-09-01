@@ -21,7 +21,7 @@
 <!DOCTYPE html>
 <html>
   <body>
-    <a href="https://github.com/jfremond/jfremond">
+    <a href="https://github.com/jfremond/github-readme-stats">
   <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=jfremond&hide=issues,prs&show_icons=true&hide_rank=true&theme=prussian&hide_border=true)" />
 </a>
 <a href="https://github.com/jfremond/jfremond">
