@@ -7,15 +7,13 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<!DOCTYPE html>
-<html>
-  <body>
-    <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/stats?cursusId=21&coalitionId=45" alt="jfremond's 42 stats" /></a>
-  </body>
-</html>
 -->
+## Hello there, I'm Jessica 🤝
 [![Followers](https://img.shields.io/github/followers/jfremond?label=Followers&logo=Github)](https://github.com/jfremond)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jfremond.jfremond)
+
+## I'm a student at 42Paris 💻
+- 🌱 I’m currently learning C and C++
 
 ## 🏆 Github stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jfremond&hide=issues,prs&show_icons=true&hide_rank=true&theme=prussian&hide_border=true)
