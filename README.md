@@ -14,8 +14,8 @@
   </body>
 </html>
 -->
+[![Followers](https://img.shields.io/github/followers/jfremond?label=Followers&logo=Github)](https://github.com/jfremond)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jfremond.jfremond)
-[![Github](https://img.shields.io/github/followers/jfremond?label=Followers&logo=Github)](https://github.com/jfremond)
 
 ## 🏆 Github stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jfremond&hide=issues,prs&show_icons=true&hide_rank=true&theme=prussian&hide_border=true)
