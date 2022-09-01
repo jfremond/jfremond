@@ -15,5 +15,5 @@
 </html>
 -->
 ## 🏆 Github stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jfremond&hide=issues,prs&show_icons=true&theme=prussian&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jfremond&hide=issues,prs&show_icons=true&hide_rank=true&theme=prussian&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfremond&langs_count=6&layout=compact&theme=prussian&hide_border=true)
