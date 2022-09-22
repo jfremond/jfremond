@@ -19,3 +19,5 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jfremond&hide=issues,prs&show_icons=true&hide_rank=true&theme=prussian&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfremond&langs_count=6&layout=compact&hide=roff,php,perl,dockerfile&theme=prussian&hide_border=true)
 
+## Other
+All repositories will remain private until propoer README files are written
