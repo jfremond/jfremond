@@ -10,7 +10,7 @@
 -->
 ## Hello there, I'm Jessica 🤝
 ![Followers](https://img.shields.io/github/followers/jfremond?logo=github&style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/jfremond?logo=github)
+![Stars](https://img.shields.io/github/stars/jfremond?logo=github&style=for-the-badge)
 
 ## I'm a student at 42Paris 💻
 - 🔭 I’m currently working on Cub3D and the C++ piscine
