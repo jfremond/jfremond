@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 ## Hello there, I'm Jessica 🤝
-![Followers](https://img.shields.io/github/followers/jfremond?logo=github)
+![Followers](https://img.shields.io/github/followers/jfremond?logo=github&style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/jfremond?logo=github)
 
 ## I'm a student at 42Paris 💻
