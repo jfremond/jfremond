@@ -13,6 +13,7 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jfremond.jfremond)
 
 ## I'm a student at 42Paris 💻
+- 🔭 I’m currently working on Cub3D and the C++ piscine
 - 🌱 I’m currently learning C and C++
 
 ## Github stats 📈
