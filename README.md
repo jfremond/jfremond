@@ -9,14 +9,14 @@
 - ⚡ Fun fact: ...
 -->
 ## Hello there, I'm Jessica 🤝
-[![Followers](https://img.shields.io/github/followers/jfremond?label=Followers&logo=Github)](https://github.com/jfremond)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jfremond.jfremond)
 
 ## I'm a student at 42Paris 💻
 - 🔭 I’m currently working on Cub3D and the C++ piscine
 - 🌱 I’m currently learning C and C++
 
 ## Github stats 📈
+![Followers](https://img.shields.io/github/followers/jfremond?logo=github)
+![Stars](https://img.shields.io/github/stars/jfremond?logo=github)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jfremond&hide=issues,prs&show_icons=true&hide_rank=true&theme=prussian&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfremond&langs_count=6&layout=compact&hide=roff,php,perl,dockerfile&theme=prussian&hide_border=true)
 
