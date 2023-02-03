@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 ## Hello there, I'm Jessica 🤝
-I'm a student at 42 Paris
+I'm a student at 42 Paris <br>
 ![Piscine](https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/stats?cursusId=9&coalitionId=12)
 <!-- ![Followers](https://img.shields.io/github/followers/jfremond?logo=github&style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/jfremond?logo=github&style=for-the-badge)
