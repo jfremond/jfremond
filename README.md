@@ -17,6 +17,11 @@ My name is Jessica and I'm a student at 42 Paris. <br>
 
 ## Here's a list of everything I've done so far during my cursus
 
-| Projects |
+| PROJECTS |
+| :------: |
+| jeoizeih |
+
+
+| EXAMS |
 | :------: |
 | jeoizeih |
