@@ -15,14 +15,8 @@ My name is Jessica and I'm a student at 42 Paris. <br>
 - 🔭 I’m currently working on ft_containers. The goal of the project is to implement a few containers in C++98.
 - 🌱 I’m currently learning C and C++
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+##Here's a list of everything I've done so far during my cursus
 
-| Tables        | Are           | Cool  |
-| ------------- |-------------| -----|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Projects |     | Exams |
+| :------: |     | :---: |
+| jeoizeihzfzhfz | | ieofjzeofhzeofhz |
