@@ -9,21 +9,20 @@
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![hello](https://media.giphy.com/media/DUtVdGeIU8lmo/giphy.gif)
-![fire](https://media.giphy.com/media/QQQoLTqkm7v3y/giphy.gif) -->
+![hello](https://media.giphy.com/media/DUtVdGeIU8lmo/giphy.gif)
+![fire](https://media.giphy.com/media/QQQoLTqkm7v3y/giphy.gif)
 
-<img src="https://media.giphy.com/media/DUtVdGeIU8lmo/giphy.gif" class="center">
-
-<!-- ***
+## 💻 Hello World 💻
 My name is Jessica and I'm a student at 42 Paris. <br>
+
+![Piscine](https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/stats?cursusId=9&coalitionId=12)
 ![Cursus](https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/stats?cursusId=21&coalitionId=45)
+
 - 🔭 I’m currently working on ft_containers. The goal of the project is to implement a few containers in C++98.
 - 🌱 I’m currently learning C and C++
-***
-pouet
+- 📫 You can contact me via mail at jfremond@student.42.fr
 
-
-## Here's a list of all projects successed and exams passed per ranks
+## 🏆 A summary of my cursus 🏆
 
 <details><summary>RANK 00</summary>
 <p>
@@ -116,4 +115,8 @@ pouet
 | Exam Rank 06 | Not done yet |
   
 </p>
-</details> -->
+</details>
+
+## 🔗 Links 🔗
+- Gifs are from [here](https://giphy.com/)
+- Badges are from [here](https://github.com/JaeSeoKim/badge42)
