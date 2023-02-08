@@ -15,8 +15,9 @@
 ## 💻 Hello World 💻
 My name is Jessica and I'm a student at 42 Paris. <br>
 
-![Piscine](https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/stats?cursusId=9&coalitionId=12)
-![Cursus](https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/stats?cursusId=21&coalitionId=45)
+
+<!-- Cursus -->
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/stats?cursusId=21&coalitionId=45" alt="jfremond's 42 stats" /></a>
 
 - 🔭 I’m currently working on ft_containers. The goal of the project is to implement a few containers in C++98.
 - 🌱 I’m currently learning C and C++
@@ -29,7 +30,7 @@ My name is Jessica and I'm a student at 42 Paris. <br>
 
 | PROJECT NAME     | GRADE |
 | :----------:     | :---: |
-| Libft            | ![Libft](https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/1900582)         |
+| Libft            | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/1900582" alt="jfremond's 42 Libft Score" /></a> |
 
 </p>
 </details>
@@ -39,10 +40,10 @@ My name is Jessica and I'm a student at 42 Paris. <br>
 
 | PROJECT NAME     | GRADE |
 | :----------:     | :---: |
-| netwhat          | ![netwhat](https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2003845)       |
-| get_next_line    | ![get_next_line](https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/1975135) |
-| ft_printf        | ![ft_printf](https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2076082)     |
-| Born2beroot      | ![Born2beroot](https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2197148)   |
+| netwhat          | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2003845" alt="jfremond's 42 netwhat Score" /></a>       |
+| get_next_line    | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/1975135" alt="jfremond's 42 get_next_line Score" /></a> |
+| ft_printf        | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2076082" alt="jfremond's 42 ft_printf Score" /></a>     |
+| Born2beroot      | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2197148" alt="jfremond's 42 Born2beroot Score" /></a>   |
 
 </p>
 </details>
@@ -52,11 +53,11 @@ My name is Jessica and I'm a student at 42 Paris. <br>
 
 | PROJECT NAME     | GRADE |
 | :----------:     | :---: |
-| ft_server        | ![ft_server](https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2173523)     |
-| push_swap        | ![push_swap](https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2173584)     |
-| minitalk         | ![minitalk](https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2293193)      |
-| so_long          | ![so_long](https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2419280)       |
-| Exam Rank 02     | ![Exam Rank 02](https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2291412)   |
+| ft_server        | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2173523" alt="jfremond's 42 ft_server Score" /></a>     |
+| push_swap        | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2173584" alt="jfremond's 42 push_swap Score" /></a>     |
+| minitalk         | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2293193" alt="jfremond's 42 minitalk Score" /></a>      |
+| so_long          | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2419280" alt="jfremond's 42 so_long Score" /></a>       |
+| Exam Rank 02     | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2291412" alt="jfremond's 42 Exam Rank 02 Score" /></a>  |
 
 </p>
 </details>
@@ -66,9 +67,9 @@ My name is Jessica and I'm a student at 42 Paris. <br>
 
 | PROJECT NAME     | GRADE |
 | :----------:     | :---: |
-| Philosophers     | ![Philo](https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2437909)         |
-| minishell        | ![minishell](https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2550960)     |
-| Exam Rank 03     | ![Exam Rank 03](https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2458874)   |
+| Philosophers     | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2437909" alt="jfremond's 42 Philosophers Score" /></a>  |
+| minishell        | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2550960" alt="jfremond's 42 minishell Score" /></a>     |
+| Exam Rank 03     | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2458874" alt="jfremond's 42 Exam Rank 03 Score" /></a>  |
 
 </p>
 </details>
@@ -78,17 +79,18 @@ My name is Jessica and I'm a student at 42 Paris. <br>
 
 | PROJECT NAME     | GRADE |
 | :----------:     | :---: |
-| NetPractice      | ![NetPractice](https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2926433)   |
-| CPP Module 00    | ![CPP00](https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2672991)         |
-| CPP Module 01    | ![CPP01](https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2680754)         |
-| CPP Module 02    | ![CPP02](https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2693678)         |
-| CPP Module 03    | ![CPP03](https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2707618)         |
-| CPP Module 04    | ![CPP04](https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2730799)         |
-| CPP Module 05    | ![CPP05](https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2754324)         |
-| CPP Module 06    | ![CPP06](https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2838605)         |
-| CPP Module 07    | ![CPP07](https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2858646)         |
-| CPP Module 08    | ![CPP08](https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2882156)         |
-| Exam Rank 04     | ![Exam Rank 04](https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2858647)   |
+| cub3d            | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2725204" alt="jfremond's 42 cub3d Score" /></a>         |
+| NetPractice      | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2926433" alt="jfremond's 42 NetPractice Score" /></a>   |
+| CPP Module 00    | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2672991" alt="jfremond's 42 CPP Module 00 Score" /></a> |
+| CPP Module 01    | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2680754" alt="jfremond's 42 CPP Module 01 Score" /></a> |
+| CPP Module 02    | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2693678" alt="jfremond's 42 CPP Module 02 Score" /></a> |
+| CPP Module 03    | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2707618" alt="jfremond's 42 CPP Module 03 Score" /></a> |
+| CPP Module 04    | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2730799" alt="jfremond's 42 CPP Module 04 Score" /></a> |
+| CPP Module 05    | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2754324" alt="jfremond's 42 CPP Module 05 Score" /></a> |
+| CPP Module 06    | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2838605" alt="jfremond's 42 CPP Module 06 Score" /></a> |
+| CPP Module 07    | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2858646" alt="jfremond's 42 CPP Module 07 Score" /></a> |
+| CPP Module 08    | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2882156" alt="jfremond's 42 CPP Module 08 Score" /></a> |
+| Exam Rank 04     | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2858647" alt="jfremond's 42 Exam Rank 04 Score" /></a>  |
 
 </p>
 </details>
@@ -98,10 +100,10 @@ My name is Jessica and I'm a student at 42 Paris. <br>
   
 | PROJECT NAME     | GRADE |
 | :----------:     | :---: |
-| ft_containers    | ![ft_containers](https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2953738) |
+| ft_containers    | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2953738" alt="jfremond's 42 ft_containers Score" /></a> |
 | webserv/ft_irc   | Not done yet |
 | inception        | Not done yet |
-| Exam Rank 05     | ![Exam Rank 05](https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2921057) |
+| Exam Rank 05     | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2921057" alt="jfremond's 42 Exam Rank 05 Score" /></a>  |
 
 </p>
 </details>
