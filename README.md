@@ -17,7 +17,9 @@ My name is Jessica and I'm a student at 42 Paris. <br>
 
 
 <!-- Cursus -->
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/stats?cursusId=21&coalitionId=45" alt="jfremond's 42 stats" /></a>
+<p align="center">
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/stats?cursusId=21&coalitionId=45" alt="jfremond's 42 stats" /></a>
+</p>
 
 - 🔭 I’m currently working on ft_containers. The goal of the project is to implement a few containers in C++98.
 - 🌱 I’m currently learning C and C++
