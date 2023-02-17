@@ -18,7 +18,8 @@ My name is Jessica and I'm a student at 42 Paris. <br>
 
 <!-- Cursus -->
 <p align="center">
-  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/stats?cursusId=21&coalitionId=45" alt="jfremond's 42 stats" /></a>
+  <!-- <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/stats?cursusId=21&coalitionId=45" alt="jfremond's 42 stats" /></a> -->
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jfremond&theme=dark"/></a>
 </p>
 
 - 🔭 I’m currently working on ft_containers. The goal of the project is to implement a few containers in C++98.
