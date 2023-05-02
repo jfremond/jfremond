@@ -8,27 +8,30 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 💻 Hello World 💻
-![Profile views](https://komarev.com/ghpvc/?username=jfremond)
-<p align="center">
+## ✨ Hello World ✨
+<!-- ![Profile views](https://komarev.com/ghpvc/?username=jfremond) -->
+<!-- <p align="center">
   My name is Jessica and I'm a student at 42 Paris. <br>
   <a> <img src="https://media.giphy.com/media/DUtVdGeIU8lmo/giphy.gif"/></a>
-  <!-- <a> <img src="https://media.giphy.com/media/QQQoLTqkm7v3y/giphy.gif"/></a> -->
-</p>
+  <a> <img src="https://media.giphy.com/media/QQQoLTqkm7v3y/giphy.gif"/></a>
+</p> -->
 
-
-<!-- Cursus -->
-<p align="center">
-  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/stats?cursusId=21&coalitionId=45" alt="jfremond's 42 stats" /></a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jfremond&theme=dark"/></a>
-</p>
-
+My name is Jessica and I'm a student at [42Paris](https://github.com/42Paris).
 - 🔭 I’m currently working on inception. The goal of the project is to broaden my knowledge of system administration by using Docker.
 - 🌱 I’m currently learning Docker and C++
 - 📫 You can contact me via mail at jfremond@student.42.fr
 
-## 🏆 A summary of my cursus 🏆
+<!-- Shills and stats -->
+## 📈 Skills and stats 📈
+<!-- <p align="center"> -->
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jfremond&theme=dark"/></a>
+<!-- </p> -->
 
+<!-- Cursus -->
+## 💻 A summary of my cursus 💻
+<!-- <p align="center"> -->
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/stats?cursusId=21&coalitionId=45" alt="jfremond's 42 stats" /></a>
+<!-- </p> -->
 <details><summary>RANK 00</summary>
 <p>
 
@@ -125,4 +128,4 @@
 
 ## 🔗 Links 🔗
 - Gifs are from [here](https://giphy.com/)
-- Badges are from [here](https://github.com/JaeSeoKim/badge42)
+- Badges are from [here](https://github.com/JaeSeoKim/badge42) (school stats), [here](https://streak-stats.demolab.com) (github stats)
