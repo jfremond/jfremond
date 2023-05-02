@@ -8,13 +8,14 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 💻 Hello World 💻
+![Profile views](https://komarev.com/ghpvc/?username=jfremond)
 <p align="center">
+  My name is Jessica and I'm a student at 42 Paris. <br>
   <a> <img src="https://media.giphy.com/media/DUtVdGeIU8lmo/giphy.gif"/></a>
-  <a> <img src="https://media.giphy.com/media/QQQoLTqkm7v3y/giphy.gif"/></a>
+  <!-- <a> <img src="https://media.giphy.com/media/QQQoLTqkm7v3y/giphy.gif"/></a> -->
 </p>
 
-## 💻 Hello World 💻
-My name is Jessica and I'm a student at 42 Paris. <br>
 
 <!-- Cursus -->
 <p align="center">
@@ -22,8 +23,8 @@ My name is Jessica and I'm a student at 42 Paris. <br>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jfremond&theme=dark"/></a>
 </p>
 
-- 🔭 I’m currently working on ft_containers. The goal of the project is to implement a few containers in C++98.
-- 🌱 I’m currently learning C and C++
+- 🔭 I’m currently working on inception. The goal of the project is to broaden my knowledge of system administration by using Docker.
+- 🌱 I’m currently learning Docker and C++
 - 📫 You can contact me via mail at jfremond@student.42.fr
 
 ## 🏆 A summary of my cursus 🏆
@@ -89,10 +90,6 @@ My name is Jessica and I'm a student at 42 Paris. <br>
 | CPP Module 02    | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2693678" alt="jfremond's 42 CPP Module 02 Score" /></a> |
 | CPP Module 03    | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2707618" alt="jfremond's 42 CPP Module 03 Score" /></a> |
 | CPP Module 04    | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2730799" alt="jfremond's 42 CPP Module 04 Score" /></a> |
-| CPP Module 05    | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2754324" alt="jfremond's 42 CPP Module 05 Score" /></a> |
-| CPP Module 06    | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2838605" alt="jfremond's 42 CPP Module 06 Score" /></a> |
-| CPP Module 07    | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2858646" alt="jfremond's 42 CPP Module 07 Score" /></a> |
-| CPP Module 08    | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2882156" alt="jfremond's 42 CPP Module 08 Score" /></a> |
 | Exam Rank 04     | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2858647" alt="jfremond's 42 Exam Rank 04 Score" /></a>  |
 
 </p>
@@ -103,9 +100,13 @@ My name is Jessica and I'm a student at 42 Paris. <br>
   
 | PROJECT NAME     | GRADE |
 | :----------:     | :---: |
-| ft_containers    | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2953738" alt="jfremond's 42 ft_containers Score" /></a> |
+| CPP Module 05    | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2754324" alt="jfremond's 42 CPP Module 05 Score" /></a> |
+| CPP Module 06    | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2838605" alt="jfremond's 42 CPP Module 06 Score" /></a> |
+| CPP Module 07    | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2858646" alt="jfremond's 42 CPP Module 07 Score" /></a> |
+| CPP Module 08    | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2882156" alt="jfremond's 42 CPP Module 08 Score" /></a> |
+| CPP Module 09    | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/3030213" alt="jfremond's 42 CPP Module 09 Score" /></a> |
 | webserv/ft_irc   | Not done yet |
-| inception        | Not done yet |
+| inception        | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/3065413" alt="jfremond's 42 Inception Score" /></a> |
 | Exam Rank 05     | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2921057" alt="jfremond's 42 Exam Rank 05 Score" /></a>  |
 
 </p>
