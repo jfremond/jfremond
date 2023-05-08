@@ -23,9 +23,10 @@ My name is Jessica and I'm a student at [42Paris](https://github.com/42Paris).
 
 <!-- Shills and stats -->
 ## 📈 Skills and stats 📈
-<!-- <p align="center"> -->
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jfremond&theme=dark"/></a>
-<!-- </p> -->
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jfremond&theme=dark"/></a><br>
+  <img src="https://komarev.com/ghpvc/?username=jfremond"/>
+</p>
 
 <!-- Cursus -->
 ## 💻 A summary of my cursus 💻
