@@ -54,7 +54,6 @@ My name is Jessica and I'm a student at [42Paris](https://github.com/42Paris).
 
 | PROJECT NAME     | GRADE |
 | :----------:     | :---: |
-| netwhat          | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2003845" alt="jfremond's 42 netwhat Score" /></a>       |
 | get_next_line    | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/1975135" alt="jfremond's 42 get_next_line Score" /></a> |
 | ft_printf        | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2076082" alt="jfremond's 42 ft_printf Score" /></a>     |
 | Born2beroot      | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2197148" alt="jfremond's 42 Born2beroot Score" /></a>   |
@@ -67,7 +66,6 @@ My name is Jessica and I'm a student at [42Paris](https://github.com/42Paris).
 
 | PROJECT NAME     | GRADE |
 | :----------:     | :---: |
-| ft_server        | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2173523" alt="jfremond's 42 ft_server Score" /></a>     |
 | push_swap        | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2173584" alt="jfremond's 42 push_swap Score" /></a>     |
 | minitalk         | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2293193" alt="jfremond's 42 minitalk Score" /></a>      |
 | so_long          | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/2419280" alt="jfremond's 42 so_long Score" /></a>       |
