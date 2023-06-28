@@ -135,7 +135,7 @@ My name is Jessica and I'm a student at [42Paris](https://github.com/42Paris).
 </details>
 
 ## 🔗 Links 🔗
-- All sources are cited below
+- All sources are listed below
   - School stats are from [here](https://github.com/JaeSeoKim/badge42)
   - Icons are from [here](https://devicon.dev/)
   - Streak stats are from [here](https://streak-stats.demolab.com/demo/)
