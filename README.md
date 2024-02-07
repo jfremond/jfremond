@@ -44,7 +44,7 @@ My name is Jessica and I'm a student at [42Paris](https://github.com/42Paris).
 
 | PROJECT NAME     | GRADE |
 | :----------:     | :---: |
-| Libft            | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/project/1900582" alt="jfremond's 42 Libft Score" /></a> |
+| Libft            | ![Libft](images/libft.png) |
 
 </p>
 </details>
