@@ -17,15 +17,16 @@
 </p> -->
 
 My name is Jessica and I'm a student at [42Paris](https://github.com/42Paris).
-- 🔭 I’m currently working on inception. The goal of the project is to broaden my knowledge of system administration by using Docker.
-- 🌱 I’m currently learning Docker and C++
+<!--- 🔭 I’m currently working on inception. The goal of the project is to broaden my knowledge of system administration by using Docker.
+- 🌱 I’m currently learning Docker and C++ -->
 - 📫 You can contact me via mail at jfremond@student.42.fr
 
 <!-- Shills and stats -->
+<!--
 ## 📈 Skills and stats 📈
-<p align="center">
-  <img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/stats?cursusId=21&coalitionId=45" alt="jfremond's 42 stats" />
-  <img src="https://streak-stats.demolab.com?user=jfremond&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats" /><br>
+<!--<p align="center">
+  <img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/stats?cursusId=21&coalitionId=45" alt="jfremond's 42 stats" />-->
+<!--  <img src="https://streak-stats.demolab.com?user=jfremond&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats" /><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux logo" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github logo" height="40" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c logo" height="40" width="40" />
@@ -35,10 +36,11 @@ My name is Jessica and I'm a student at [42Paris](https://github.com/42Paris).
 </p>
 
 <!-- Cursus -->
-## 💻 A summary of my cursus 💻
+<!--## 💻 A summary of my cursus 💻-->
 <!-- <p align="center"> -->
 <!--   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1ljxdin001109lh6mg47k2p/stats?cursusId=21&coalitionId=45" alt="jfremond's 42 stats" /></a> -->
 <!-- </p> -->
+<!--
 <details><summary>RANK 00</summary>
 <p>
 
@@ -137,3 +139,4 @@ My name is Jessica and I'm a student at [42Paris](https://github.com/42Paris).
   - Icons are from [here](https://devicon.dev/)
   - Streak stats are from [here](https://streak-stats.demolab.com/demo/)
   - Profile views are from [here](https://github.com/antonkomarev/github-profile-views-counter)
+-->
